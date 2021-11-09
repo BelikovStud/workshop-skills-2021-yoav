@@ -1,2 +1,3 @@
 this is file1
 update file1
+update file1 from b2
